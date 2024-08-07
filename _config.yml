@@ -38,11 +38,11 @@ social:
   email: hx77@proton.me # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    #- https://twitter.com/username # change to your Twitter homepage
+    - https://github.com/hx077 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/lourdes-cigarruista/
 
 # Site Verification Settings
 webmaster_verifications:
@@ -96,7 +96,7 @@ theme_mode: # [light | dark]
 #cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "_site/assets/img/grass_avatar.jpg"
+avatar: "assets/img/grass_avatar.jpg"
 #avatar: "/commons/avatar.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
