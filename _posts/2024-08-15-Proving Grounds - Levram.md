@@ -1,10 +1,10 @@
 ---
-title: Levram
-description: Proving Grounds Machine Walkthrough
+title: "Proving Grounds: Levram"
+description: Machine Walkthrough
 author: hx77
 date: 2024-08-15
-categories: [walkthrough, provinggrounds]
-tags: [provingrounds, machines, walkthrough ]     # TAG names should always be lowercase
+categories: [walkthrough, proving_grounds]
+tags: [proving_grounds, machines, walkthrough ]     # TAG names should always be lowercase
 pin: false
 image: 
     path: https://imagedelivery.net/-rYpVInpJDYYl5Fx06AU4g/78aee95c-ab7b-4cb1-5a28-c86e94471000/public
@@ -151,4 +151,4 @@ It worked! I navigated to "root" and was able to get the final flag "proof.txt"
 ## Conclusion
 
 - **Summary:** This walkthrough covered the steps from initial enumeration to privilege escalation in the Levram box from proving grounds.
-- **Reflection:** I think this was a very good box due to the complexity of the privilege escalation, overall I liked it!
+- **Reflection:** I think this was a very good box due to the complexity of the privilege escalation, overall I liked it! Rating: 4/10.
